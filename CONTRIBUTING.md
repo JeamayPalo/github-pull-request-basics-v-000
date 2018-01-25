@@ -12,8 +12,7 @@ issue lists and your issue will be prioritized and addressed as appropriate.
 
 ## Submitting a Pull Request to Suggest an Improvement
 
-If you see an opportunity for improvement and can make the change yourself go
-ahead and use a typical git workflow to make it happen:
+If you see an opportunity for improvement and can make the change yourself, go ahead and use a typical git workflow to make it happen:
 
 * Fork this curriculum repository
 * Make the change on your fork, with descriptive commits in the standard format
@@ -24,14 +23,12 @@ course.
 
 # Why Contribute?
 
-Curriculum on Learn is publicly and freely available under Learn's
-[Educational Content License](https://learn.co/content-license). By
-embracing an open-source contribution model, our goal is for the curriculum
-on Learn to become, in time, the best educational content the world has
+Curriculum on Learn is publicly and freely available under Learn's [Educational Content License](https://learn.co/content-license). By
+embracing an open-source contribution model, our goal is for the curriculum on Learn to become, in time, the best educational content the world has
 ever seen.
 
 We need help from the community of Learners to maintain and improve the
 educational content. Everything from fixing typos, to correcting
-out-dated information, to improving exposition, to adding better examples,
+outdated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
